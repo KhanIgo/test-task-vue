@@ -1,4 +1,4 @@
-# test-vue
+# test-task-vue
 
 ## Project setup
 ```
